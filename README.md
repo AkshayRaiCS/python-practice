@@ -43,5 +43,12 @@ Clone the repository:
 ```bash
 git clone https://github.com/AkshayRaiCS/python-practice.git
 cd python-practice
+```
 
+Run any file with Python:
 
+```bash
+python filename.py
+```
+
+Each program runs independently in the terminal.
